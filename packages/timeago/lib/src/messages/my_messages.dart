@@ -1,4 +1,4 @@
-import 'package:intl/intl.dart';
+
 import 'package:timeago/src/messages/lookupmessages.dart';
 
 /// Myanmar Messages
